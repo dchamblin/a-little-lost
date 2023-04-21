@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+a little lost: Welcome to my blog
 ---
 
